@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    saved time
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    allows you to review differences and whether changes were made at the optimal moment
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    you can control the points that are noteworthy
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    a programme is not just one file all are inter related
+
+How can you use the commands git log and git diff to view the history of files?
+
+    ?
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    more confident because you can retrace your steps
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    all coding work
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	reuse pieces of programmes, reviewing earlier ways of doing things
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	pro would be the control you have to keep logical changes grouped
+	con would be you have to remember to commit
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	because changes can have repercussions across multiple files in coding for instance whilst the main use of
+	a file like google docs is not necessarily connected to other files
+
+How might using version control make you more confident to make changes that could break something?
+
+	because you can go back to earlier versions
