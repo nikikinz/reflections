@@ -6,4 +6,10 @@ How is the staging area different from the working directory and the repository?
 
 	it is a holding area that can be retrieved if the working area changes
 
-how do you do this
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	by merging two branches together you can make the head contain all modifications contained in the branches. its shown as a tree to show the reationship between the commits ie the parent commit
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	automatic shows up conflicts but can be tedious if vague conflicts
