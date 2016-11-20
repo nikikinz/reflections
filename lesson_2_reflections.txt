@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	you create a new repository on your computer with its .git folder. you need to tell git that you want this directory s files tracked.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	it is a holding area that can be retrieved if the working area changes
